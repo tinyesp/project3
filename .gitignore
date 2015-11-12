@@ -1,0 +1,15 @@
+/lib
+/bin
+/_export
+/.metadata
+.target
+target
+*.class
+*.zip
+*.rar
+*.jar
+/build/
+.project
+.classpath
+.settings
+.gradle
